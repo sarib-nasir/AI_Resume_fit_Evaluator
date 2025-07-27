@@ -1,0 +1,74 @@
+About the job
+About Us
+
+
+At kiresult, we’re reshaping the procurement analytics landscape with our advanced SaaS solution, helping companies harness the power of data for smarter decision-making. Our platform transforms procurement data into valuable insights, providing companies with strategic advantages and cost-saving opportunities. 
+
+
+Who We're Looking For
+
+
+You’re an ambitious student with a passion for backend development and strong Python skills? You excel at developing the “behind-the-scenes" services that power data-driven applications? If you’re eager to work with modern frameworks, containerization, and NoSQL databases—and see your code used by large enterprises— this role is for you.
+Tasks
+Role Overview 
+
+
+As a Backend Developer at kiresult, you will be a critical part of our development team, maintaining existing functionality and implementing new features for our analytics platform. 
+
+
+Key Responsibilities 
+
+Feature Development: Build new API endpoints and background jobs using Python and FastAPI 
+
+Code Quality: Drive test-driven development with pytest, maintain healthy test coverage 
+
+Performance Optimization: Profile services, implement caching or async processing, fine-tune MongoDB queries 
+
+Containerization: Define, build, and run Docker images and containers for development, testing, and production 
+
+Collaboration: Engage in sprint planning, demos, and pair programming; provide and incorporate feedback 
+
+Monitoring & Reliability: Implement logging, monitoring, and alerting to ensure system health, uptime, and quick incident response
+
+
+Requirements
+Requirements
+
+
+Must-haves 
+
+Active enrollment in Computer Science, Physics, or related IT discipline 
+
+Proficiency in Python 3.x and hands-on experience with at least three of 
+
+
+
+FastAPI / Flask 
+
+Pydantic 
+
+Celery (or other async task queue) 
+
+asyncio 
+
+pytest 
+
+
+
+Practical experience with MongoDB schema design, indexing, and aggregation pipelines 
+
+Solid understanding of Docker (Dockerfile authoring, image management, container orchestration basics) 
+
+Strong problem-solving skills and an appetite for troubleshooting complex issues 
+
+
+Nice-haves 
+
+Familiarity with Git workflows and CI/CD tools (GitHub Actions, GitLab CI/CD) 
+
+Exposure to Kubernetes or similar orchestration platforms 
+
+Basic frontend knowledge (React, Vue.js, TypeScript) 
+
+Experience with cloud services (AWS, GCP, Azure, OTC)
+

@@ -1,0 +1,72 @@
+About the job
+YOUR TASKS
+
+Collaborate with AI engineers and researchers to design, develop, and test machine learning and deep learning models.
+Train and fine-tune deep learning models using real-world datasets tailored to specific use cases.
+Contribute to the extension and optimization of our existing AI/ML infrastructure, including model training pipelines, evaluation tools, and deployment workflows.
+Fine-tune and adapt Large Language Models (LLMs) and/or Vision-Language Models (VLMs) using domain-specific or customer-provided datasets.
+Leverage the capabilities of LLMs/VLMs to build intelligent solutions that address diverse customer challenges, from natural language understanding to visual recognition tasks.
+Engage in experimentation and research, exploring new techniques to enhance model performance and efficiency.
+Document your work, communicate technical findings clearly, and contribute to internal knowledge sharing.
+
+YOUR PROFILE
+
+Currently enrolled in a Bachelor's or Master’s degree program in Computer Science, Artificial Intelligence, Data Science, or a related field with a strong focus on AI/ML.
+Solid foundation and hands-on experience with Python programming language and proficient in scientific computing libraries such as NumPy.
+Strong understanding of Image Processing and Computer Vision concepts and experience using libraries such as OpenCV and Matplotlib.
+Familiarity with core concepts of Machine Learning, including data preprocessing, model training, and evaluation. Practical experience with ML libraries such as Scikit-learn.
+Knowledge of Deep Learning and Deep Learning architectures, such as: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers, etc. Experience with PyTorch.
+Familiarity with Large Language Models (LLMs) and Vision Language Models (VLMs) and their applications.
+Strong verbal and written communication skills in English.
+
+Helpful Additional Qualifications
+
+Nice to have: 
+
+Experience with C/C++ programming, preferably in performance-critical applications.
+Familiarity with advanced vision frameworks such as: Detectron2 and MMDetection.
+Hands-on experience with the Hugging Face Transformers library.
+Knowledge of Agentic AI systems and autonomous agents.
+Experience working with LangChain and building LLM-based pipelines or applications.
+Experience with fine-tuning LLMs and VLMs.
+Experience with Amazon Web Services (AWS).
+Experience with Web services.
+Experience with Flask and FastAPI.
+Experience with Docker.
+Experience with MLOps and LLMOps.
+About Us
+
+We believe robots should do the work humans should not—dull, dirty, and dangerous tasks. The robot industry is experiencing rapid growth, powered by AI, cloud computing, 5G networks and falling cost of robot hardware. We envision a transformative decade ahead similar to the arrival of smartphones. With hundreds of thousands and very soon millions of inspections performed across five continents and software trusted by the world's top energy leaders, we’re not just imagining impact—we're delivering it.
+
+We are a team of roboticists, AI experts, and world champions who grew up programming robots and never stopped developing intelligent autonomy software for collaborative mobile robots. With our diverse team of 70+ people from 25+ different countries, our team is uniquely qualified to revolutionize the industry. Our foundation is strengthened by visionary entrepreneurs and committed investors. Additionally, we work closely with notable partners and collaborators such as AWS, Boston Dynamics, DJI, Ericsson, Google, Intel, Microsoft, Mitsubishi, Nokia, Nvidia, SAP and many more. Together, we are committed to shaping the future of robotics.
+
+Are you passionate about robotics and eager to make a difference? Join us and be part of a team that is not just witnessing but actively shaping the future of robotics. Energy Robotics is the place for you. Be at the forefront of this groundbreaking journey!
+
+YOUR BENEFITS AT ENERGY ROBOTICS*
+
+Growth & Development
+
+Annual education budget
+Learn from world-leading robotics experts
+Knowledge-sharing sessions & workshops
+
+Flexibility & Time Off
+
+Flexible remote work and workation possibilities
+Support for a standing desk for your home office
+
+Wellbeing & Community
+
+Be part of an international team with over 20 nationalities
+1:1 sessions with certified psychologists and mental health workshops
+Team events: hackathons, outdoor adventures & more
+Weekly sponsored team lunches
+
+Financial Perks
+
+Support for public transport costs
+Extra employer contribution to company pension scheme
+Allowance for kindergarten costs possible
+...and more benefits & discounts
+
+*The specific offer may vary depending on employment type

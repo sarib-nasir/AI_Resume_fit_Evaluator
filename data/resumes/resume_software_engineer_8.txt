@@ -1,0 +1,53 @@
+Name: Samuel Reed
+Email: samreed.tech@gmail.com
+Phone: +1 (555) 776-1209
+GitHub: github.com/samreedtech
+LinkedIn: linkedin.com/in/samreed
+
+Summary
+Computer Science undergraduate with solid Python programming experience and interest in backend systems. Exposure to web frameworks and container tools. Currently learning FastAPI and MongoDB through personal projects.
+
+Education
+B.Sc. in Information Technology
+Arizona State University
+Expected Graduation: Dec 2025
+GPA: 3.5 / 4.0
+
+Skills
+Languages: Python, Bash
+
+Frameworks: Flask, learning FastAPI
+
+Databases: MongoDB (basic queries), MySQL
+
+DevOps: Basic Docker knowledge, Git
+
+Tools: pytest, Postman, GitHub
+
+Experience
+Backend Intern – Uni Dev Lab (Academic Internship)
+Jan 2024 – April 2024
+
+Built internal Flask APIs for student course analytics
+
+Containerized services using Docker and Docker Compose
+
+Used pytest to test endpoints and automate scripts
+
+Projects
+Simple Blog API (Flask)
+
+CRUD API using Flask and MongoDB (PyMongo)
+
+Dockerized the project and used GitHub Actions for CI
+
+Data Pipeline Automation Script
+
+Wrote Python scripts using asyncio for batch processing JSON files
+
+Stored results in MongoDB; used logs for monitoring
+
+Certifications
+Python for Everybody – Coursera
+
+Docker Essentials – Pluralsight

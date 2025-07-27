@@ -1,0 +1,43 @@
+About the job
+About FINN
+
+FINN is an independent platform for car subscriptions from over 30 brands. Subscribe to a car with just a few clicks and it will be delivered directly to your doorstep in just a few days: FINN offers a carefree service and handles insurance, financing, registration, taxes and maintenance. FINN also funds climate action by supporting certified climate protection projects and thus offsets the carbon footprint of every vehicle of all drive types – from production to every mile driven.
+
+FINN was founded in Munich in 2019. The mission: to have a positive impact on people, organizations and the planet through frictionless mobility.
+
+More Information: www.finn.com/
+
+Your Role
+
+As a Data Analytics Intern you will take responsibility for enabling FINN to make data-driven decisions. This includes taking on your own projects in making our objectives measurable or creating insightful analytics. You will also work at the intersection of Data and Business Development to drive initiatives based on the insights you gain. You will work with the most cutting edge tool stack available and can play a key role in establishing a data mindset in your team. You will work closely with the team, independently drive your projects and get the opportunity to contribute to a fast growing organization.
+
+Your Benefits
+
+This role is based in Munich with flexibility to work remotely a few times a week. Our modern offices feature frequent events with our great colleagues.
+With massive growth potential, FINN allows you to quickly develop and succeed in a highly motivating startup environment with bold challenges in cross-functional teams.
+Competitive fixed salary: 2.300€
+
+
+Your Responsibilities
+
+Move fast on your own projects: At FINN you will get responsibility from day one. All projects will have a critical and immediate impact on our company and the purpose to make mobility fun and sustainable.
+Create actionable insights: Execute robust analyses, deliver actionable insights, make suggestions and support in implementing the measures across departments.
+Critically question and improve existing processes: We constantly aim to build the best version of FINN. Help us to improve our existing setup with maximum efficiency by actively proposing improvements to current processes.
+Become a data evangelist: Support your team to expand their analytical skills and educate them to become independent using and analyzing data with the tools that you learn to use (e.g. dbt, BigQuery, Looker).
+
+
+Your Profile
+
+Available for a full-time internship lasting 6 months.
+Studying a business or engineering discipline with a focus on IT. A self-taught coding enthusiast is a great fit as well.
+Experience in a high growth startup or another analytical, high-performance environment.
+Experience working with SQL. Knowledge of other programming languages, e.g. Python, R, Java, is a plus.
+Experience with Looker, Tableau (or other BI tools) is a plus.
+Proactive, hands-on attitude and a natural curiosity about software & data tools.
+Meticulous attention to detail and joy in precise working.
+Highly analytical and comfortable around numbers.
+Fluent in English.
+
+
+Interested in Joining Our Fast-Growing Startup?
+

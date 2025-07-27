@@ -1,0 +1,40 @@
+Name: Leah Morris
+Email: leahmorris.design@gmail.com
+Phone: +1 (555) 443-0921
+LinkedIn: linkedin.com/in/leahmorris
+
+Summary
+Physics undergraduate with strong academic record and interest in data. Familiar with Python for simulations but limited web or backend development experience. Seeking to explore the tech industry, ideally in data analysis or scientific computing.
+
+Education
+B.Sc. in Physics
+University of Colorado Boulder
+Expected Graduation: May 2025
+GPA: 3.9 / 4.0
+
+Skills
+Languages: Python (for data analysis), MATLAB
+
+Libraries: NumPy, Matplotlib, pandas
+
+Concepts: Scientific modeling, numerical methods
+
+Other: LaTeX, Excel, Git (basic)
+
+Experience
+Research Assistant – Computational Physics Lab
+Fall 2023 – Present
+
+Built Python simulations for modeling particle motion
+
+Wrote scripts to visualize large datasets
+
+Projects
+Quantum Simulation Tool
+
+Built with Python using SciPy and NumPy
+
+Not web-based; focused on solving Schrödinger equation numerically
+
+Certifications
+Python for Data Science – IBM via edX

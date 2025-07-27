@@ -1,0 +1,55 @@
+About the job
+This is us
+
+At straiv, we’re an ambitious team with diverse backgrounds, all working towards the same goal—helping hotels create seamless guest experiences. We’re already working with over 3.400 customers in 30 countries, and we’re just getting started. If you’re up for the ride, we’d love to have you on board! 🚀
+
+We’re looking for a curious and proactive AI Working Student to join our team and help drive AI adoption across multiple departments.
+
+What You’ll Do
+
+Design, build, and deploy AI agents and automation tools to improve workflows and support the daily operations of various departments.
+Leverage platforms like n8n, Make.com, LangChain, and others to solve complex problems with business-specific solutions.
+Collaborate with cross-functional teams to identify inefficiencies and translate them into automation opportunities.
+Prototype, test, and iterate on AI-powered tools, services, and LLM-driven solutions for real-world use.
+Document and share your work to ensure effective adoption and reusability across the organization.
+
+
+What You Bring
+
+You are currently pursuing a degree in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field.
+First hands-on experience with AI tools and platforms, including automation frameworks (e.g., n8n, Make.com, LangChain), large language models (e.g., OpenAI, Gemini), and vector databases.
+Solid foundation in software engineering and AI development, with familiarity in Python, TensorFlow, PyTorch, SQL, JSON-based APIs.
+Basic understanding of prompt engineering and how to effectively design and optimize prompts for large language models
+A creative, problem-solving mindset and a strong interest in applying AI to solve real business challenges.
+Bonus: Experience building AI-powered agents, chatbots, or LLM-integrated applications
+Excellent communication skills and fluency in English; able to clearly document and explain technical concepts.
+
+
+We value different backgrounds and are happy to receive your application even if the above points do not completely match your profile.
+
+What’s In It For You
+
+Hands-on experience building real AI-powered solutions that impact daily work.
+A front-row seat to how AI transforms modern businesses.
+Mentorship from experienced AI professionals and access to leading AI tools.
+Flexibility to experiment, iterate, and learn quickly in a supportive environment.
+A chance to take ownership of solutions and grow with us.
+
+
+What We Offer
+
+Hybrid working model (3 days in office) and flexible working hours
+Regular team events (Christmas, Summer, Wasen party, other small celebrations)
+50€ monthly benefit in kind (store vouchers)
+29€ monthly public transport subsidy
+Corporate discounts
+and last but not least, a cool team and the chance to help build a software champion
+
+
+You want to get more information about us?
+
+About us
+Our solution
+Instagram
+LinkedIn
+YouTube

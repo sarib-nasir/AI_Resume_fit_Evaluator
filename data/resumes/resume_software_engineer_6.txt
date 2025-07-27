@@ -1,0 +1,40 @@
+Name: Maria Torres
+Email: mariatorres.creative@gmail.com
+Phone: +1 (555) 221-0091
+Portfolio: behance.net/mariatorres
+
+Summary
+Creative designer with a background in visual arts and digital media. Experienced in Adobe tools and UX design. Interested in transitioning into tech roles but with limited programming experience.
+
+Education
+B.A. in Digital Arts & Media
+Savannah College of Art and Design
+Graduated: June 2023
+
+Skills
+Design Tools: Figma, Photoshop, Illustrator, Adobe XD
+
+Web Tools: Basic HTML/CSS knowledge from design courses
+
+Other: UX Design, Branding, Typography
+
+Experience
+Design Intern – PixelCraft Studio
+Remote | Summer 2023
+
+Created mobile UI mockups and visual assets
+
+Collaborated with dev team on design handoffs
+
+Freelance Illustrator
+2020 – Present
+
+Created assets for websites, social campaigns, and mobile apps
+
+Projects
+UX Redesign for Nonprofit Site (Design Only)
+
+Delivered responsive Figma prototype and branding package
+
+Certifications
+Google UX Design Certificate

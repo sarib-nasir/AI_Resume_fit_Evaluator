@@ -1,0 +1,54 @@
+Name: Akash Verma
+Email: akashverma.designs@gmail.com
+Phone: +1 (555) 555-2233
+LinkedIn: linkedin.com/in/akashverma
+Portfolio: akashverma.myportfolio.com
+
+Summary
+Creative and user-focused graduate in Multimedia and Web Design with a passion for visual storytelling and user experience. Skilled in graphic tools and basic web development. Seeking opportunities in creative or front-end roles with emphasis on design rather than systems or engineering.
+
+Education
+Bachelor of Science in Multimedia & Web Design
+Amity University
+Graduated: May 2024
+GPA: 2.5 / 4
+
+Skills
+Design Tools: Adobe XD, Photoshop, Figma, Illustrator
+
+Web Technologies: HTML5, CSS3, basic JavaScript
+
+Concepts: UX/UI Principles, Wireframing, Branding
+
+Languages: Minimal exposure to Python and C++
+
+Other: Basic WordPress editing, Canva
+
+Experience
+UI/UX Design Intern – Creative Minds Studio
+Noida | Summer 2023
+
+Designed wireframes and mockups for client websites and mobile apps.
+
+Assisted in visual branding projects including logo and icon creation.
+
+Freelance Graphic Designer
+Remote | 2022–2024
+
+Created over 20 visual designs for websites, flyers, and Instagram campaigns.
+
+Projects
+Personal Portfolio Website
+
+Built using HTML, CSS, and hosted on Netlify.
+
+Focused on clean UI and responsive design for creative work showcase.
+
+Restaurant Menu App (Concept Design)
+
+Designed in Figma with interactive prototype for tablet-based digital menu.
+
+Certifications
+Google UX Design Certificate
+
+Adobe Certified Associate – Photoshop

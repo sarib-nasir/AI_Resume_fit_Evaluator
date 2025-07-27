@@ -1,0 +1,41 @@
+Name: Jason Kim
+Email: jasonkim.marketing@gmail.com
+Phone: +1 (555) 345-2211
+LinkedIn: linkedin.com/in/jasonkimdesign
+
+Summary
+Marketing major exploring a transition to tech. Self-learning Python basics through online resources. Strong writing and communication background. Seeking exposure to the tech industry and development workflows.
+
+Education
+B.A. in Marketing & Communication
+University of Wisconsin
+Graduated: May 2023
+
+Skills
+Languages: Python (basic), HTML
+
+Tools: Canva, Google Analytics, Microsoft Excel
+
+Other: SEO, Copywriting, Content Management
+
+Experience
+Content Intern – GrowthStudio
+2022 – 2023
+
+Wrote blog articles on tech and AI topics
+
+Collaborated with design and social media teams
+
+Projects
+Intro to Python Exercises (Self-Taught)
+
+Completed exercises on conditionals, loops, and functions using Replit
+
+Blog: “Marketing Meets AI”
+
+Personal blog exploring generative AI trends from a non-technical lens
+
+Certifications
+Python for Beginners – SoloLearn
+
+Digital Marketing Certificate – HubSpot

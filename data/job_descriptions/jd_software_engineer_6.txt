@@ -1,0 +1,49 @@
+About the job
+.NET Engineer (80%-100%) - Düsseldorf
+
+
+
+Our client, a prestigious Investment Banking firm, is seeking a talented .NET Software Engineer to join their innovative technology team. Specializing in cutting-edge financial solutions, our client is committed to driving financial growth and stability through advanced technological applications. We are looking for a skilled Software Engineer interested in the following tech:
+
+
+C#, .NET 9, ASP.NET Core, Blazor, MVC, GraphQL, SQL Server, Azure, AWS, Docker, Kubernetes, Helm, DevOps, CI/CD, GIT, EF, React, Angular, TypeScript, JavaScript, HTML, CSS, Jest, Agile, TDD, Programmer, Full Stack Developer, Architect, .NET Software Engineer.
+
+
+
+Position Overview:
+
+As a .NET Software Engineer, you will be a key player in developing and maintaining high-performance applications that support our client's investment banking operations. You will work closely with cross-functional teams to design, implement, and optimize software solutions that enhance financial trading, risk management, and data analytics. This role is perfect for a seasoned developer who thrives in a fast-paced, dynamic environment and is passionate about financial technology.
+
+
+Key Responsibilities:
+
+Design, develop, and maintain high-performance financial applications using technologies such as C#, .NET 9, ASP.NET Core, Blazor, MVC, GraphQL, SQL Server, Azure, AWS, Docker, Kubernetes, Helm, DevOps, CI/CD, GIT, EF, React, Angular, TypeScript, JavaScript, HTML, CSS, Jest.
+Collaborate with product managers, analysts, and other software engineer.
+Implement and maintain CI/CD pipelines for continuous integration and deployment.
+Stay updated with the latest industry trends and technologies to drive innovation.
+
+
+Qualifications:
+
+Bachelor’s degree in computer science, engineering, or a related field.
+2+ years of experience in software development, with a strong focus on .NET technologies.
+Proficiency in SQL Server.
+Strong understanding of Agile methodologies.
+Fluency in English (C1+).
+
+
+Benefits:
+
+Competitive salary package, with performance-based bonuses.
+Comprehensive health and wellness programs.
+Flexible working arrangements, including remote work options.
+Collaborative and inclusive work environment.
+
+
+(C#, .NET 9, ASP.NET Core, Blazor, MVC, GraphQL, SQL Server, Azure, AWS, Docker, Kubernetes, Helm, DevOps, CI/CD, GIT, EF, React, Angular, TypeScript, JavaScript, HTML, CSS, Jest, Agile, TDD, Programmer, Full Stack Developer, Architect, .NET Software Engineer.)
+
+
+Location: Düsseldorf, Germany / Remote 🌍
+
+
+Salary: €55,000 - €85,000 + Bonus + Benefits

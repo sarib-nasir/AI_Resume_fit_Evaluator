@@ -1,0 +1,66 @@
+About the job
+A GOOD INTERNSHIP IS NEVER HANDS OFF.
+
+SHARE YOUR PASSION.
+
+We believe in creating an environment where our interns really can learn by doing and where they are given their own areas of responsibility right from the start of their time with us. That’s why our experts will treat you as part of the team from day one, encourage you to bring your own ideas to the table – and give you the opportunity to really show what you can do.
+
+We, the BMW Group, offer you an interesting and varied internship in the area of Data Science of Financial Services. Our team works on Data Analytics as well as new business models which are capable of bridging strategic directions and market challenges with financial services. Financial services range from financing vehicles, offering insurances but also creating service bundle that fit customers' needs best.
+
+What awaits you?
+
+In your new role you will help us with the development and implementation of AI models for financial services.
+You will communicate insights and results to stakeholders.
+Furthermore, you will help us to develop applications using recent technologies such as Generative AI.
+To support us creating end-to-end AI applications will also be part of your tasks.
+
+
+What should you bring along? 
+
+Studies of data science, computer science, engineering, physics or mathematics with a focus on IT or a similar course of study with equivalent qualification.
+Advance coding skills in Python.
+Understanding of machine learning and first experience in implementing data science solutions.
+Experience with generative AI frameworks such as LangChain or similar as well as with RAG architectures and their application is highly desired.
+Basic knowledge of Cloud technologies (preferably AWS or Azure) and experience with front-end framework is a plus.
+High degree of personal initiative and strong drive to innovate.
+Business fluent in English, German is a plus.
+
+
+You enjoy working in an international team? Apply now!
+
+What do we offer?
+
+Comprehensive mentoring & onboarding.
+Personal & professional development.
+Flexible working hours.
+Digital offers & mobile working.
+Attractive remuneration.
+Apartment offers for students (subject to availability & only Munich).
+And many other benefits - see bmw.jobs/benefits
+
+
+Earliest starting date: from 03/03/2025
+
+Duration: 6 months
+
+Working hours: Full-time
+
+Do you have any questions? Then simply send your enquiry using our contact form. Your enquiry will then be answered by telephone or e-mail.
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are a particular concern for us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. That is why our recruiting decisions are also based on personality, experience and skills.
+
+Find out more about diversity at the BMW Group at bmwgroup.jobs/diversity
+
+Intern Data Science (f/m/x) 
+
+Unternehmensbereich: BMW AG
+
+Standort: Munich
+
+Arbeitsbereich: Data Science
+
+Job ID: 151246
+
+Veröffentlichungsdatum: 07.02.2025
+
+Praktikum/Abschlussarbeit

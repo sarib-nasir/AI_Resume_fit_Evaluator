@@ -1,0 +1,51 @@
+Name: Jordan Lee
+Email: jordanlee.web@gmail.com
+Phone: +1 (555) 998-7765
+LinkedIn: linkedin.com/in/jordanlee
+
+Summary
+Motivated recent graduate with foundational web development knowledge. Self-taught in modern JavaScript and currently learning React. Completed academic projects using HTML, CSS, and some JavaScript, with strong interest in joining a collaborative front-end team.
+
+Education
+B.S. in Information Technology
+California State University, Fullerton
+Graduated: May 2024
+GPA: 3.3 / 4.0
+
+Skills
+Languages: HTML, CSS, JavaScript
+
+Libraries/Frameworks: Learning React
+
+Concepts: DOM Manipulation, REST API Basics, Version Control
+
+Tools: Git, Visual Studio Code
+
+Experience
+Course Project – Web Dev Final Project
+2023
+
+Designed static e-commerce product page with filters and search
+
+Used basic JavaScript and CSS Flexbox for layout
+
+Part-Time IT Support Assistant – Campus Tech Helpdesk
+2022 – 2023
+
+Assisted with web CMS updates and student tech issues
+
+Projects
+Weather App (JavaScript)
+
+Used OpenWeather API to fetch and display weather data
+
+Responsive layout with basic form input validation
+
+Basic Portfolio Page
+
+HTML/CSS-only project hosted on GitHub Pages
+
+Certifications
+JavaScript Basics – Codecademy
+
+Git & GitHub for Beginners – Udemy

@@ -1,0 +1,75 @@
+About the job
+Where Data Does More. Join the Snowflake team.
+
+Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowflake developed an innovative new product with a built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. We are now a global, world-class organization with offices in more than a dozen countries and serving many more.
+
+We’re looking for dedicated students who share our passion for ground-breaking technology and want to create a lasting future for you and Snowflake.
+
+WHAT WE OFFER :
+
+Paid, full-time internships in the heart of the software industry
+Post-internship career opportunities (full-time and/or additional internships)
+Exposure to a fast-paced, yet fun, startup culture
+A chance to work with world-class experts on challenging projects
+Opportunity to provide meaningful contributions to a real system used by customers
+High level of access to supervisors (manager and mentor), detailed direction without micromanagement, feedback throughout your internship, and a final evaluation
+Stuff that matters: treated as a member of the Snowflake team, included in company meetings/activities, flexible hours, casual dress code, accommodations to work from home, swag and much more
+Catered lunches, access to gaming consoles, recreational games, happy hours, company outings, and more
+Embraced as a full member of the diverse Snowflake engineering team
+
+
+WHAT WE EXPECT :
+
+Must be actively enrolled in an accredited college/university program during the time of the internship
+Required: A completed BS degree, with an MS or PhD in progress
+Desired Majors: Computer Science, Computer Engineering, Electrical Engineering, Physics, Math, or related field 
+Required coursework: algorithms, data structures, and operating systems
+Recommended coursework: Database systems, distributed systems, Geospatial/Geographic IS, cloud computing, compilers, 
+Bonus experience: Research or publications in databases or distributed systems, experience with geo features processing, and contributions to open source. 
+Experience working with big data (engineering / processing) and data migration
+Duration: 4 month minimum, 6 months recommended, up to 12 months supported, start date flexible
+Excellent programming skills in C++ or Java 
+Knowledge of data structures and algorithms
+Strong problem solving and ability to learn quickly in a dynamic environment
+Fluent English language skills (oral and written)
+Experience with working as a part of a team
+Dedication and passion for technology
+Systems programming skills including multi-threading, concurrency, etc.
+
+
+WHAT YOU WILL LEARN/GAIN :
+
+How to build enterprise grade, reliable, and trustworthy software/services
+Exposure to SQL and/or other database technologies (e.g., Spark, Hadoop)
+Understanding of database internals, large-scale data processing, transaction processing, distributed systems, and data warehouse design
+Implementation, testing of features in query compilation, compiler design, query execution
+Experience working with cloud infrastructure, AWS, Azure, and/or Google Cloud in particular
+Learning about cutting edge database technology and research
+
+
+Possible Teams/Work Focus Areas:
+
+Database Query Engine, Data Infrastructure, Data Pipelines, Data Platform, Database Security, Data Governance, Data Sharing, FoundationDB, Manageability, Metadata, Service Runtime, Snowhouse Foundation, Storage and ML Engineering 
+High performance large-scale data processing
+Large-scale distributed systems
+Software-as-a-Service platform
+Software frameworks for stability and performance testing 
+
+
+POSSIBLE TEAMS/WORK FOCUS AREA :
+
+Execution platform (XP), Search Optimization (SO), SQL Features (Geo, Collations) as well as FDB CAT (Client/Authorization/Transport)
+Database engineering, service runtime, streaming (data pipelines), metadata, Streamlit and cloud engineering teams. 
+High performance large-scale data processing
+Large-scale distributed systems
+Query compilation and optimization
+Geospatial Design/Geographic IS (map compilation, CRS manipulation, geo features processing)
+Software-as-a-Service platform
+Software frameworks for stability and performance testing
+
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+
+How do you want to make your impact?
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.

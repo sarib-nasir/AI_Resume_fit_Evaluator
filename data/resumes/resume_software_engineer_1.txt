@@ -1,0 +1,62 @@
+Name: Priya Sharma
+Email: priyasharma.dev@gmail.com
+Phone: +1 (555) 123-4567
+LinkedIn: linkedin.com/in/priyasharma
+GitHub: github.com/priyasharma
+
+Summary
+Enthusiastic and detail-oriented Computer Science graduate with a strong foundation in data structures, algorithms, and scalable web systems. Experienced in front-end development through internships and academic projects, with hands-on experience in JavaScript, React, Python, and cloud technologies. Passionate about solving complex problems in distributed systems and delivering impactful customer-facing applications.
+
+Education
+Bachelor of Technology in Computer Science
+Indian Institute of Technology (IIT) Delhi
+Graduated: May 2024
+GPA: 8.8 / 10
+
+Skills
+Languages: Java, Python, JavaScript, C++
+
+Web Technologies: HTML5, CSS3, React.js, Node.js, Redux
+
+Frameworks/Tools: AWS (Lambda, S3), Git, Docker, REST APIs
+
+CS Fundamentals: Data Structures, Algorithms, Object-Oriented Design, Complexity Analysis
+
+Databases: MySQL, MongoDB
+
+Concepts: Distributed Systems, Multi-tier Architectures, Agile Development
+
+Experience
+Software Engineering Intern – Amazon Web Services (AWS)
+Hyderabad, India | Summer 2023
+
+Developed a React-based dashboard for monitoring internal microservices; reduced page load time by 35%.
+
+Implemented lazy loading and API request batching, improving scalability.
+
+Collaborated across teams using Agile practices; participated in daily scrums and sprint reviews.
+
+Frontend Developer Intern – Flipkart
+Bengaluru, India | Summer 2022
+
+Built responsive product listing pages using React.js and Redux.
+
+Improved site accessibility, leading to a 25% increase in usability test scores.
+
+Projects
+Distributed File Storage System (Academic Project)
+
+Designed a scalable file storage system using Python and AWS S3.
+
+Implemented chunk-based uploading and redundancy using Reed-Solomon coding.
+
+Real-Time Chat App
+
+Built using React, Node.js, and WebSocket for real-time updates.
+
+Deployed on AWS EC2 and integrated with MongoDB Atlas.
+
+Certifications
+AWS Certified Cloud Practitioner – 2024
+
+Coursera: Algorithms Specialization by Stanford University

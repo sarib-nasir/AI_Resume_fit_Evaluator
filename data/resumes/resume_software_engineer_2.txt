@@ -1,0 +1,58 @@
+Name: Rohan Mehta
+Email: rohanmehta.code@gmail.com
+Phone: +1 (555) 987-6543
+LinkedIn: linkedin.com/in/rohanmehta
+GitHub: github.com/rohanmehta
+
+Summary
+Motivated Computer Engineering graduate with solid knowledge of object-oriented programming, algorithms, and web development. Self-taught in front-end frameworks and cloud basics through online courses and academic projects. Seeking opportunities to grow in a collaborative, fast-paced engineering team.
+
+Education
+Bachelor of Engineering in Computer Engineering
+University of Mumbai
+Graduated: June 2024
+GPA: 3.3 / 4
+
+Skills
+Languages: Python, JavaScript, C
+
+Web Technologies: HTML, CSS, React.js (basic), Bootstrap
+
+Concepts: Data Structures, OOP, REST APIs, Agile Basics
+
+Tools: Git, VS Code
+
+Cloud: Basic understanding of AWS (S3, Lambda – theoretical)
+
+Experience
+Academic Research Assistant – Web Systems Lab
+University of Mumbai | Jan 2023 – May 2023
+
+Contributed to UI development for a research dashboard using HTML, CSS, and vanilla JS.
+
+Assisted in writing documentation and testing features.
+
+Freelance Developer
+Remote | 2022
+
+Built small business websites using prebuilt templates and customized HTML/CSS.
+
+Worked with 3 local clients to deliver responsive layouts and basic interactivity.
+
+Projects
+Student Portal System (Major Project)
+
+Developed a web-based portal using Python Flask and SQLite.
+
+Designed frontend with Bootstrap and integrated basic login authentication.
+
+Online Quiz App
+
+Created using JavaScript and Firebase.
+
+Allowed timed quizzes with multiple-choice scoring and simple admin panel.
+
+Certifications
+JavaScript Algorithms and Data Structures – freeCodeCamp
+
+Introduction to Cloud Computing – Coursera

@@ -1,0 +1,53 @@
+Name: Kevin Lam
+Email: kevinlam.dev@gmail.com
+Phone: +1 (555) 889-2145
+GitHub: github.com/kevinlam
+LinkedIn: linkedin.com/in/kevinlam
+
+Summary
+Final-year undergraduate student in Computer Science with solid backend Python skills. Familiar with AI concepts and actively exploring AI tools and system design. Looking to gain deeper exposure to production-level systems and agent infrastructure.
+
+Education
+B.S. in Computer Science
+Rutgers University
+Expected Graduation: May 2025
+GPA: 3.6 / 4.0
+
+Skills
+Languages: Python, Java
+
+Frameworks: Flask, SQLite, Pytest
+
+Concepts: RESTful APIs, Unit Testing, OOP
+
+Tools: Git, Docker (basic), Jupyter
+
+ML Exposure: Scikit-learn, OpenAI API (sandbox)
+
+Experience
+Software Intern – EduByte Labs
+May 2024 – Aug 2024
+
+Contributed to a Flask-based microservice for a learning platform
+
+Wrote unit tests with pytest, achieved 85% coverage
+
+Assisted in API documentation and manual testing
+
+Projects
+Student Task Manager API
+
+Built a REST API with Flask and SQLite
+
+Created endpoints for task tracking and user data
+
+LLM Playground (Hobby Project)
+
+Built simple Python app using OpenAI GPT API for text summarization
+
+Experimented with LangChain for chaining responses
+
+Certifications
+Python Backend Development – Udemy
+
+Intro to Machine Learning – Kaggle

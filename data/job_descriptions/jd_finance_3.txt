@@ -1,0 +1,26 @@
+About the job
+A GOOD INTERNSHIP IS NEVER HANDS OFF.
+Intern Data Science of Financial Services (f/m/x)
+SHARE YOUR PASSION.
+
+We believe in creating an environment where our interns really can learn by doing and where they are given their own areas of responsibility right from the start of their time with us. That’s why our experts will treat you as part of the team from day one, encourage you to bring your own ideas to the table – and give you the opportunity to really show what you can do.
+
+We, the BMW Group, offer you an interesting and varied internship in the area of Data Science of Financial Services. Our team Technical Excellence is responsible to develop AI models and steer entities across the whole world to leverage AI. Financial services range from financing vehicles and offering insurance to creating service bundles that best meet customers' needs.
+
+What awaits you?
+
+In your new role you will help us with the development and implementation of AI models for financial services.
+You will communicate insights and results to stakeholders.
+Furthermore you will help us to develop applications using recent technologies such as Generative AI.
+To support us creating end-to-end AI applications will also be part of your tasks.
+
+
+What should you bring along? 
+
+Studies of data science, computer science, engineering, physics or mathematics with a focus on IT or a similar course of study with equivalent qualification.
+Advance coding skills in Python.
+Understanding of machine learning and first experience in implementing data science solutions.
+Experience with generative AI frameworks such as LangChain or similar as well as with RAG architectures and their application is highly desired.
+Basic knowledge of Cloud technologies (preferably AWS or Azure) and experience with front-end framework is a plus.
+High degree of personal initiative and strong drive to innovate.
+Business fluent in English, German is a plus.

@@ -1,0 +1,54 @@
+About the job
+Software Engineer (Intern) | naptha.ai
+
+About This Role
+
+We are seeking exceptional Software Engineering interns to join Naptha AI and contribute to building the future of AI agent infrastructure. This internship offers hands-on experience working with frontier AI technology, backed by industry veterans and technical leaders through NVIDIA Inception, Google for Startups, and Microsoft for Startups.
+
+We're building the foundational infrastructure for the next wave of AI companies, enabling frontier AI developers to build products powered by enormous networks of highly capable next-generation AI agents. As an Engineering Intern, you'll work directly with our technical team on real projects that impact our core platform.
+
+What You'll Do
+
+Build and improve components of our agent infrastructure
+Work on real features that ship to production
+Collaborate with experienced engineers and researchers
+Learn about large-scale AI systems and infrastructure
+Contribute to our agent development platform
+Gain experience with cutting-edge AI tools and frameworks
+
+Technical Areas
+
+Backend development with Python and modern frameworks
+Agent system implementation and testing
+API development and integration
+Performance optimization and monitoring
+Infrastructure and tooling development
+Testing and deployment automation
+
+Requirements
+
+Currently pursuing BS/MS in Computer Science or related field
+Strong programming skills, particularly in Python
+Basic understanding of AI/ML concepts
+Experience with software development practices
+Ability to work independently and learn quickly
+Strong problem-solving abilities
+
+Nice to Have
+
+Experience with AI frameworks or tools
+Familiarity with distributed systems
+Open source contributions
+Experience with developer tools
+Interest in AI infrastructure
+
+About The Internship
+
+Duration: 12-16 weeks
+Location: Remote
+Competitive compensation
+Real-world project ownership
+Mentorship from experienced engineers
+Opportunity for return offers
+
+This internship offers a unique opportunity to work on cutting-edge AI infrastructure while learning from experienced technical leaders. You'll gain practical experience building systems that power the next generation of AI applications.

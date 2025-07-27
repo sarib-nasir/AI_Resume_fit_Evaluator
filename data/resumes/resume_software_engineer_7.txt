@@ -1,0 +1,62 @@
+Name: Arjun Patel
+Email: arjun.patel.dev@gmail.com
+Phone: +1 (555) 874-3312
+GitHub: github.com/arjunpatel-dev
+LinkedIn: linkedin.com/in/arjunpatel
+
+Summary
+Detail-oriented Computer Science student with strong backend development skills in Python and modern frameworks like FastAPI and Celery. Experienced in Docker, MongoDB, and test-driven development. Passionate about building scalable APIs and contributing to real-world analytics platforms.
+
+Education
+B.Sc. in Computer Science
+University of California, San Diego
+Expected Graduation: May 2025
+GPA: 3.8 / 4.0
+
+Skills
+Languages: Python (3.x), JavaScript (basic)
+
+Frameworks/Tools: FastAPI, Flask, Celery, asyncio, Pydantic, pytest
+
+Databases: MongoDB (aggregation, indexing), PostgreSQL (basic)
+
+DevOps: Docker, Git, GitHub Actions
+
+Other: REST API design, JSON, Agile workflows, VSCode
+
+Experience
+Backend Intern – DataSage Analytics
+Remote | May 2024 – Aug 2024
+
+Developed FastAPI-based microservices with async support for processing analytics data
+
+Implemented Celery workers and Redis for background tasks and job queues
+
+Wrote unit tests using pytest and improved test coverage to 90%
+
+Open Source Contributor – DataFastAPI Project
+2023 – Present
+
+Built community-driven features for a Python data ingestion service
+
+Fixed performance issues in MongoDB queries using indexing and optimized aggregation
+
+Projects
+ProcureTrack – Procurement Insights Tool
+
+Backend: FastAPI, MongoDB, Celery, Docker
+
+Developed modular APIs for managing vendor data and procurement metrics
+
+Integrated Prometheus and logging for monitoring and reliability
+
+Task Scheduler API
+
+Asynchronous job scheduling API using Celery, FastAPI, and RabbitMQ
+
+Deployed with Docker Compose and tested using pytest
+
+Certifications
+MongoDB for Developers – MongoDB University
+
+DevOps with Docker – Udemy

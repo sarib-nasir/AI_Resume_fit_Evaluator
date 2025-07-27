@@ -1,0 +1,35 @@
+About the job
+Description
+
+Do you want to solve business challenges through innovative technology? Do you enjoy working on cutting-edge, scalable services technology in a team environment? Do you like working on industry-defining projects that move the needle?
+
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our Front End Engineers (FEEs) use cutting-edge technology to solve complex problems and get to see the impact of their work first-hand.
+
+The challenges FEEs solve for at Amazon are big and impact millions of customers, sellers, and products around the world. We’re looking for individuals who are excited by the idea of creating new products, features, and services from scratch while managing ambiguity and the pace of a company whose ship cycles are measured in weeks, not years. If you have the skills for building high-performance, customer-friendly products that delight customers, and are interested in cutting-edge cloud computing, this is the job for you.
+
+If this is you, come chart your own path at Amazon!
+
+Key job responsibilities
+
+ Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring to market innovative products and services.
+ Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.
+ Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.
+ Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.
+ Ability to design and code the right solutions starting with broadly defined problems.
+ Work in an agile environment to deliver high quality software.
+
+Applications are reviewed on a rolling basis. For an update on your status, or to confirm your application was submitted successfully, please login to your candidate portal. Please note that Amazon works with a high volume of applicants. We appreciate your patience as we review applications for future Amazonians!
+
+Basic Qualifications
+
+ Graduated less than 24 months ago or about to complete a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related fields at time of application
+ Although no specific programming language is required – you should be familiar with the syntax of languages such as Java, C/C++, or Python
+ Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving and complexity analysis
+
+Preferred Qualifications
+
+ Previous technical internship(s)
+ Experience with distributed, multi-tiered systems, algorithms, and relational databases
+ Experience in optimization mathematics such as linear programming and nonlinear optimization
+ Ability to effectively articulate technical challenges and solutions
+ Adept at handling ambiguous or undefined problems as well as ability to think abstractly

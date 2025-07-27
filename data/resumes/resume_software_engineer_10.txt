@@ -1,0 +1,62 @@
+Name: Aisha Ahmed
+Email: aisha.ahmed.ai@gmail.com
+Phone: +1 (555) 902-1313
+GitHub: github.com/aishaai
+LinkedIn: linkedin.com/in/aishaahmed
+
+Summary
+Computer Science Master’s student with a passion for AI infrastructure and Python backend development. Experienced with agent systems, ML tooling, and scalable architecture. Eager to contribute to building next-generation AI platforms through fast-paced, real-world engineering challenges.
+
+Education
+M.S. in Computer Science
+Georgia Institute of Technology
+Expected Graduation: Dec 2025
+GPA: 3.9 / 4.0
+
+Skills
+Languages: Python, JavaScript, Bash
+
+Frameworks: FastAPI, Flask, PyTorch, Celery
+
+AI/ML Tools: Transformers (Hugging Face), LangChain, OpenAI API
+
+DevOps/Infra: Docker, GitHub Actions, REST APIs, Redis, Nginx
+
+Concepts: Distributed systems, Agent architectures, CI/CD, MLOps
+
+Experience
+AI Infrastructure Intern – MindWorks AI
+Remote | Summer 2024
+
+Built distributed task queue using Celery for multi-agent orchestration
+
+Developed FastAPI endpoints for inference routing and async task handling
+
+Collaborated on internal LangChain-like wrapper for LLM pipeline components
+
+Teaching Assistant – Systems Programming
+Jan 2024 – May 2024
+
+Graded assignments on concurrency, memory management, and containerization
+
+Held weekly office hours and mentored student projects
+
+Projects
+AutoAgentHub (Open Source)
+
+Python framework for managing autonomous agents and API interactions
+
+Supported multi-agent memory and task queue using Redis + FastAPI
+
+Logged metrics and events via custom Prometheus/Grafana setup
+
+InfraBot CLI Tool
+
+CLI for managing microservice deployments with Docker and Python
+
+Integrated logging and performance benchmarking
+
+Certifications
+Machine Learning Specialization – DeepLearning.AI
+
+MLOps Foundations – Coursera

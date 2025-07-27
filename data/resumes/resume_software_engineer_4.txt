@@ -1,0 +1,53 @@
+Name: Emily Johnson
+Email: emily.johnson.dev@gmail.com
+Phone: +1 (555) 112-3344
+LinkedIn: linkedin.com/in/emilyjohnson
+GitHub: github.com/emilyjohnsondev
+
+Summary
+Junior front-end developer with hands-on experience using React and RESTful APIs. Skilled in building responsive UIs, translating wireframes to working code, and collaborating in Agile environments. Excited to grow in a remote-first, fast-paced engineering team.
+
+Education
+B.S. in Computer Science
+University of Illinois Urbana-Champaign
+Graduated: May 2023
+GPA: 3.6 / 4.0
+
+Skills
+Languages: JavaScript, HTML5, CSS3, TypeScript
+
+Frameworks: React.js, Bootstrap, TailwindCSS
+
+Tools: Git, GitHub, Chrome DevTools, Figma
+
+APIs: REST, JSON, Axios
+
+Other: Responsive Design, Flexbox, Git CLI
+
+Experience
+Front-End Intern – SoftEdge Tech
+Remote | Jan 2023 – Apr 2023
+
+Built reusable React components for customer dashboard
+
+Integrated REST APIs and improved loading time by 25%
+
+Participated in weekly sprints and peer code reviews
+
+Projects
+Expense Tracker Web App
+
+React-based app with state management, API integration, and localStorage
+
+Designed with mobile-first approach using TailwindCSS
+
+Portfolio Website
+
+Built and deployed personal portfolio using GitHub Pages
+
+Used HTML/CSS and React for component-based UI
+
+Certifications
+Meta Front-End Developer – Coursera (2023)
+
+Responsive Web Design – freeCodeCamp
